@@ -113,6 +113,14 @@
 
 }
 
+.course{
+    font-weight: 900;
+}
+
+.course-year{
+    font-weight: 600;
+}
+
 /* Navbar */
 .navbar{
     background-color: rgba(252,250,211,0.32);
